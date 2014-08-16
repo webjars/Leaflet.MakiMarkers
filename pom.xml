@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>Leaflet.MakiMarkers</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>Leaflet.MakiMarkers</name>
     <description>WebJar for Leaflet.MakiMarkers</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/Leaflet.MakiMarkers</url>
         <connection>scm:git:https://github.com/webjars/Leaflet.MakiMarkers.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/Leaflet.MakiMarkers.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>Leaflet.MakiMarkers-1.0.1</tag>
     </scm>
     
     <dependencies>
